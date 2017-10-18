@@ -5,7 +5,7 @@
 ############################################################
 
 # Add in your name
-# Claudia
+# Kirsty
 # Add in purpose of this script
 # To learn about version control on github
 
@@ -17,7 +17,15 @@ library(ggplot2)
 library(tidyr)
 library(dplyr)
 library(readr)
-
+install.packages("dplyr")
+library(dplyr)
+install.packages("ggplot2")
+install.packages("tidyr")
+install.packages("readr")
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+library(readr)
 # Functions ----
 # This is a ggplot function for a nice clean theme
 # HINT: use this theme when making your plot later on
